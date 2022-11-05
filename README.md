@@ -2,8 +2,8 @@
 
 
 - 📖 Cursando Analise e Desenvolvimento de Sistemas (ADS) na UCPEL - 1/6
-- 🌱 Estudando Javascript
-- 🔭 Hoje busco uma oportunidade na area
+- 🌱 Estudando HTML | CSS | Javascript
+- 🔭 Hoje busco uma oportunidade na área
 
 <div align="center">
   <a href="https://github.com/IsabelCamposSilveira">
