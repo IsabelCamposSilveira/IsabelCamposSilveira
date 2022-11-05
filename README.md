@@ -1,6 +1,6 @@
 ### Olá, eu sou a Isabel Silveira 👋
 
-
+- 🎓 Formada no curso Eletrotécnica pelo Instituto Federal Sul-Rio-Grandense (IFSUL)
 - 📖 Cursando Analise e Desenvolvimento de Sistemas (ADS) na UCPEL - 1/6
 - 🌱 Estudando HTML | CSS | Javascript
 - 🔭 Hoje busco uma oportunidade na área
