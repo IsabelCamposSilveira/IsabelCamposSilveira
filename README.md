@@ -14,7 +14,7 @@
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" src="https://cdn.discordapp.com/attachments/762033062221053973/1037168479784144937/download20221102213111.png">
+  <img align="right" alt="Isa-pic" height="150" src="https://cdn.discordapp.com/attachments/762033062221053973/1037168479784144937/download20221102213111.png">
 </div>
   
   ##
