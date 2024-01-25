@@ -1,9 +1,9 @@
 ### Olá, eu sou a Isabel Silveira 👋
 
 - 🎓 Formada no curso Eletrotécnica pelo Instituto Federal Sul-Rio-Grandense (IFSUL)
-- 📖 Cursando Analise e Desenvolvimento de Sistemas (ADS) na UCPEL - 1/6
-- 🌱 Estudando HTML | CSS | Javascript
-- 🔭 Hoje busco uma oportunidade na área
+- 📖 Cursando Analise e Desenvolvimento de Sistemas (ADS) na UCPEL - 3/6
+- 🌱 Estudando HTML | CSS | Javascript | C# | Power Plataform
+- 🔭 Dev Junior na Smart Consulting 
 
 <div align="center">
   <a href="https://github.com/IsabelCamposSilveira">
